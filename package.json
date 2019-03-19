@@ -1,6 +1,6 @@
 {
   "name": "kg-report",
-  "version": "1.7.6",
+  "version": "1.7.7",
   "description": "kg report client project ( base on ant design pro 2.X ) ",
   "publishConfig": {
     "registry": "http://192.168.1.239:8081/repository/npm-client/"

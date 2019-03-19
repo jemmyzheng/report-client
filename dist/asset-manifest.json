@@ -38,13 +38,13 @@
   "/static/avatar.gif": "/static/avatar.7fd67058.gif",
   "/static/logo.png": "/static/logo.d137748c.png",
   "/index.html": "/index.html",
-  "/icons/icon-192x192.png": "/icons/icon-192x192.png",
   "/favicon.png": "/favicon.png",
   "/icons/icon-128x128.png": "/icons/icon-128x128.png",
+  "/icons/icon-192x192.png": "/icons/icon-192x192.png",
   "/login-bg.jpg": "/login-bg.jpg",
   "/login-bg.jpeg": "/login-bg.jpeg",
   "/manifest.json": "/manifest.json",
   "/pwacompat.min.js": "/pwacompat.min.js",
-  "/precache-manifest.1f2341cb2810f15cddc725d54cc6d765.js": "/precache-manifest.1f2341cb2810f15cddc725d54cc6d765.js",
+  "/precache-manifest.7e036055457acee7bea16fedcb531579.js": "/precache-manifest.7e036055457acee7bea16fedcb531579.js",
   "/service-worker.js": "/service-worker.js"
 }

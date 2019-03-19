@@ -64,7 +64,7 @@ export default {
   },
   proxy: {
     '/api/': {
-      target: 'http://localhost:8080/',
+      target: 'http://118.24.1.116/',
       changeOrigin: true,
     },
   },

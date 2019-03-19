@@ -20,11 +20,11 @@ self.__precacheManifest = [
     "url": "/static/logo.d137748c.png"
   },
   {
-    "revision": "3f806f63bbb884b82105",
+    "revision": "deffbab120ecb4663c17",
     "url": "/umi.css"
   },
   {
-    "revision": "3f806f63bbb884b82105",
+    "revision": "deffbab120ecb4663c17",
     "url": "/umi.js"
   },
   {
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/8.async.js"
   },
   {
-    "revision": "d906b84014141a34a11d",
+    "revision": "c25adb55430fdea6cf81",
     "url": "/9.async.js"
   },
   {
@@ -77,15 +77,15 @@ self.__precacheManifest = [
   },
   {
     "revision": "d137748c0ef776651a13cf62029b9fdc",
+    "url": "/icons/icon-192x192.png"
+  },
+  {
+    "revision": "d137748c0ef776651a13cf62029b9fdc",
     "url": "/icons/icon-128x128.png"
   },
   {
     "revision": "d137748c0ef776651a13cf62029b9fdc",
     "url": "/favicon.png"
-  },
-  {
-    "revision": "d137748c0ef776651a13cf62029b9fdc",
-    "url": "/icons/icon-192x192.png"
   },
   {
     "revision": "9a3ca102d266dc34022d0d4b827bdc79",

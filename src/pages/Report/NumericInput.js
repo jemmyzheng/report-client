@@ -36,7 +36,7 @@ class NumericInput extends Component {
   onChange = (e) => {
     const { value } = e.target;
     const {type} = this.props;
-    const reg = type && type === 'int' ? /^-?(0|[1-9][0-9]*)(\.[0-9]*)?$/ : /^-?(0|[1-9][0-9]*)?$/;
+    const reg = (type && type === 'int') ? /^-?(0|[1-9][0-9]*)?$/ : /^-?(0|[1-9][0-9]*)(\.[0-9]*)?$/;
     if ((!Number.isNaN(value) && reg.test(value)) || value === '' || value === '-') {
       this.setState({
         value,
